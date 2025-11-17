@@ -649,3 +649,4 @@ if __name__ == "__main__" and dados_originais is not None:
 
 
 elif dados_originais is None:
+     print("Erro fatal: Os dados não foram carregados corretamente. O script não será executado.")
